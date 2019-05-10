@@ -1,1 +1,1 @@
-# segment_analytics-react-native-appsflyer
+# segment-analytics-react-native-appsflyer
