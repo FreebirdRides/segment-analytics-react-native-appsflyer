@@ -38,7 +38,8 @@ repositories {
 
 
 dependencies {
-    api project(":@segment_analytics-react-native")
+    // api project(":@segment_analytics-react-native")
+    api project(":@segment/analytics-react-native")
     api('com.appsflyer:segment-android-integration:1.+') {
         transitive = true
     }
