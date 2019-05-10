@@ -218,6 +218,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SRCROOT)/../../../../ios\"",
 					"\"$(SRCROOT)/../../../../ios/Frameworks/AppsFlyer\"",
+					"\"$(SRCROOT)/../../../../ios/Frameworks/Segment\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -237,6 +238,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SRCROOT)/../../../../ios\"",
 					"\"$(SRCROOT)/../../../../ios/Frameworks/AppsFlyer\"",
+					"\"$(SRCROOT)/../../../../ios/Frameworks/Segment\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
